@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "/home/kcottre/cs3100/Hello.c",
+    "files.associations": {
+        "string.h": "c",
+        "limits.h": "c",
+        "stdbool.h": "c",
+        "basic_math.h": "c",
+        "stdlib.h": "c"
+    }
+}
